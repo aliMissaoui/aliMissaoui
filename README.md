@@ -1,4 +1,4 @@
-I'm a software developer based in Tunisia, a lot of my open source work is focusing on making software development easier, which is probably why you're here.
+- 👋 Hi, I’m @aliMissaoui. I'm a software engineer based in Tunisia, a lot of my open source work is focusing on making software development easier, which is probably why you're here.
 
 <!--- If my code has helped you, please consider --->
 Let's talk!
